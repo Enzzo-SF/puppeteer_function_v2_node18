@@ -4,6 +4,6 @@
   },
   "dependencies": {
     "@google-cloud/functions-framework": "^3.0.0",
-    "puppeteer": "^21.6.1"
+    "puppeteer": "^23.1.0"
   }
 }
